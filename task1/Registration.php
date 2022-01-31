@@ -75,7 +75,7 @@
             	Please choose a file:
             	</td> 
     		<td>
-            	<input type="submit" name="file" value="Choose File"> No file chosen
+            	<input type="file" name="uploadedFile" value="Choose File">
                 </td>
             </tr>
     <tr>
